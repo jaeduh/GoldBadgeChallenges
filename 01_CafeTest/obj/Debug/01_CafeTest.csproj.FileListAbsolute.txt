@@ -1,0 +1,16 @@
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\obj\Debug\01_CafeTest.csprojAssemblyReference.cache
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\01_CafeTest.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\01_CafeTest.pdb
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\GoldBadgeChallenge.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\GoldBadgeChallenge.pdb
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\GoldBadgeChallenge.exe.config
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\obj\Debug\01_CafeTest.csproj.CopyComplete
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\obj\Debug\01_CafeTest.dll
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\01_CafeTest\obj\Debug\01_CafeTest.pdb

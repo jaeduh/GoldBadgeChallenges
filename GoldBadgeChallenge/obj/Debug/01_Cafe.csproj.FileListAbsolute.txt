@@ -1,0 +1,6 @@
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\bin\Debug\GoldBadgeChallenge.exe.config
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\bin\Debug\GoldBadgeChallenge.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\bin\Debug\GoldBadgeChallenge.pdb
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\obj\Debug\01_Cafe.csprojAssemblyReference.cache
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\obj\Debug\GoldBadgeChallenge.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\GoldBadgeChallenge\obj\Debug\GoldBadgeChallenge.pdb

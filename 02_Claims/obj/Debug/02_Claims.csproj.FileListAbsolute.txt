@@ -1,0 +1,5 @@
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\02_Claims\bin\Debug\02_Claims.exe.config
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\02_Claims\bin\Debug\02_Claims.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\02_Claims\bin\Debug\02_Claims.pdb
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\02_Claims\obj\Debug\02_Claims.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\DotNetProjects\GoldBadgeChallenge\02_Claims\obj\Debug\02_Claims.pdb
